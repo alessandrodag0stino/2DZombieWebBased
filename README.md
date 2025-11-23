@@ -14,7 +14,9 @@
 Il gioco rileva automaticamente il dispositivo di input:
 
 | **Tastiera & Mouse** | `W` `A` `S` `D` | `Mouse` (Punta e Clicca) | - |
+
 | **Gamepad (PS5/Xbox)** | Levetta **Sinistra** | Levetta **Destra** | `R2` o `X` per sparare |
+
 | **Mobile (Touch)** | Stick Virtuale **SX** | Stick Virtuale **DX** | Spara automatico al 100% inclinazione |
 
 ## 🚀 Installazione Locale
@@ -28,7 +30,7 @@ Poiché il progetto utilizza Moduli ES6 e texture esterne, **non può essere ape
 ### Avvio rapido
 1.  Clona il repository:
     ```bash
-    git clone https://github.com/alessandrodag0stino/2DZombieWebBased/
+    git clone [https://github.com/alessandrodag0stino/2DZombieWebBased]
     ```
 
 2.  Avvia un server locale temporaneo.
